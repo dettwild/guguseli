@@ -1,0 +1,28 @@
+Das Dashboard bietet einen schnellen Überblick zu den wichtigsten Eckdaten des Portefeuilles: 
+
+Die Asset Allocation aufgeschlüsselt nach Anlageklassen, Währungen oder auch nach Branchen. Die Weltkarte gibt uns einen geografischen Überblick wo das Portefeuille investiert ist und gleich unterhalb sehen wir die grössten Einzelpositionen.
+
+Das rechte Drittel der Anzeige vermittelt die Performance nach unterschiedlichen Kriterien. 
+
+Das Dashboard lässt sich nach Belieben erweitern oder reduzieren. 
+
+Wünscht man detailliertere Informationen, so hilft der Reporting Bereich weiter.
+
+Dies sind diesselben Daten, die wir vorher im Dashboard gesehen haben. 
+
+Allerdings ist die Darstellung hier interaktiv. Das bedeutet, ich kann auf einen Bereich der mich interessiert tippen und die damit zusammenhängenden Daten anschauen. 
+
+Wähle ich beispielsweise einen Teilbereich der Asset Allocation, so wird mir rechts beim Währungssplit gezeigt, wie die Währungen in dieser Anlageklasse verteilt sind. 
+
+Dies funktioniert auch in die andere Richtung: Wenn ich eine einzelne Währung anwähle, zeigt es mir die Aufteilung der Anlageklassen für die angewählte Währung an.  
+
+Mehr Informationen zu den investierten Branchen gibt es auf der Folgeseite. Auch hier gibt die Auswahl der gewünschten Anlageklasse bereitwillig Auskunft, in welchen Branchen angelegt wurde. 
+
+Uns interessiert nun die Branchenaufteilung über sämtliche Anlageklassen hinweg, außer hinweg.
+
+Dasselbe Prinzip kommt auch bei der Ansicht von Branchenrisiken zur Anwendung. Wir wählen "Financials" und sehen in der Box in der Mitte rechts welches die grössten Positionen sind in diesem Bereich. 
+
+Natürlich lassen sich auch Branchen kombinieren, wie beispielsweise hier SSA zusammen mit Industrials, zusammen mit Health oder auch SSA zusammen mit IT. Man beachte, wie sich unten rechts die gewichteten Ratings dynamisch anpassen. 
+
+ 
+Auch die Performance wird erklärt, hier sowohl nach Anlageklassen und Währungen als auch nach geografischer Region, welche anders sein mag als der Währungssplit. 
